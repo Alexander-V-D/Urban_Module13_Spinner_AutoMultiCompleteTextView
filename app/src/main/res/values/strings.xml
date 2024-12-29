@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Urban_Module13_Spinner_AutoMultiCompleteTextView</string>
+    <string name="toolbar_title">Подбор персонала</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="age">Возраст</string>
+    <string name="save">Сохранить</string>
+</resources>
